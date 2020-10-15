@@ -1,0 +1,18 @@
+.rectangle{
+    width: 600px;
+    height: 300px;
+display: flex;
+margin:10px ;
+position: relative
+}
+#rectangle_1{
+    background-color: chocolate;
+}
+#rectangle_2{
+    background-color: crimson;
+    float: right;
+}
+#rectangle_3{
+    background-color: darkcyan;
+margin-top: 320px;
+}
